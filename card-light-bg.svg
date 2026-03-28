@@ -1,0 +1,14 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="661.886" height="265.075" viewBox="0 0 661.886 265.075">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="champ-light-bg" opacity="0.5">
+    <path id="Path_722" data-name="Path 722" d="M1247.241,4574.536l-328.991,90,2.884-61.494,327.9-94.664Z" transform="translate(-918.249 -4399.456)" fill="url(#linear-gradient)"/>
+    <path id="Path_723" data-name="Path 723" d="M431.91,5051.647,245.463,5105.11l-.37-33.668,186.447-53.463Z" transform="translate(22.743 -4885.642)" fill="url(#linear-gradient)"/>
+    <path id="Path_724" data-name="Path 724" d="M310.591,4893.753-7.25,4980.926l3.633-56.471,316.861-91.442Z" transform="translate(348.642 -4833.013)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
